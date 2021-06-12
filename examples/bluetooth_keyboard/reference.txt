@@ -1,0 +1,5 @@
+[reference]
+
+https://github.com/T-vK/ESP32-BLE-Keyboard
+
+https://www.arduino.cc/reference/ko/language/functions/usb/keyboard/
